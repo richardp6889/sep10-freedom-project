@@ -8,8 +8,8 @@ I deciced to pick aframe since it could be used to make a 3D model that can be u
 [aframe basics](https://www.youtube.com/watch?v=eTFPMxqod2I)
 
 ![image](https://github.com/richardp6889/sep10-freedom-project/assets/146861658/89ed25db-1510-4147-b04e-389b511dc4b8)
-Figuring out a way to get to pick and decide on a tool
-How to Read: Making progress in this was accomplished by reading the aframe and the
+Organization: Figuring out a way to get to pick and decide on a tool and having a space in the notes and a file to test them out involve a certain level of organization since if you aren't you are lost in the information and that would confuse one even more. 
+How to Read: Making progress in this was accomplished by reading the aframe and understanding the video involve different things since although both are code and that code explained they are both different in the sense that understanding it yourself or being taught by someone else will be taken differently.
 
 [Previous](entry03.md) | [Next](entry05.md)
 
