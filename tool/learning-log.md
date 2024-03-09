@@ -16,10 +16,20 @@ Something I will try next is:
 * If it is possible to shrink elements
 
 
-X/X/X:
-* Text
+03/04/2024:
+What I did this week was learn the spacing needed to stack or put them horizontally which is about 1.4-.5 for stacking spheres and the cubes can stack on a 1 per cube. I learned this through tinkering with the shapes and changing only one of tha values to see which one is the optimal for having them together but not going into each other or leave a gap of space.
 
-1.4-.5 is optimal for stacking 
+The only trouble I ran on doing this was finding out what spot the point of view is on since it is not aligned with the cube on one above the ground.
+
+Something I will try next is:
+The next thing is will try is using these shapes to make something out of many of them.
+Also using more shapes than just the cubes and spheres. 
+
+
+
+
+
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
