@@ -23,9 +23,10 @@ The only trouble I ran on doing this was finding out what spot the point of view
 
 Something I will try next is:
 The next thing is will try is using these shapes to make something out of many of them.
-Also using more shapes than just the cubes and spheres. 
+Also using more shapes than just the cubes and spheres.
 
-
+03/11/2024
+Something that I worked on this week was purely making shapes out of these blocks. No really anythin else but making a stack or cubes and spheres and other thing of of these elements. 
 
 
 
