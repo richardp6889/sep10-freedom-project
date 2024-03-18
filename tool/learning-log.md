@@ -26,7 +26,11 @@ The next thing is will try is using these shapes to make something out of many o
 Also using more shapes than just the cubes and spheres.
 
 03/11/2024
-Something that I worked on this week was purely making shapes out of these blocks. No really anythin else but making a stack or cubes and spheres and other thing of of these elements. 
+Something that I worked on this week was purely making shapes out of these blocks. No really anythin else but making a stack or cubes and spheres and other thing of of these elements.
+
+Next time I will learn other shapes and try to make a scene instead of just objects in the void.
+
+
 
 
 
