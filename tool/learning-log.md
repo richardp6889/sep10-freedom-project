@@ -30,7 +30,12 @@ Something that I worked on this week was purely making shapes out of these block
 
 Next time I will learn other shapes and try to make a scene instead of just objects in the void.
 
+03/18/2024
+I made a ground by using the plane as a ground and strechin it out and cubes as object above it and adding a sky. Something I learned was that the plane can be streched out.
 
+Something I struggled with was goign below zero
+
+Something to try next time will be making it move by animation 
 
 
 
