@@ -38,6 +38,13 @@ Something I struggled with was goign below zero
 Something to try next time will be making it move by animation
 
 
+03/25/2024
+I made a scene with a big box as a ground that start at where the view is and will "tress" made of a streched up cube and cylinders as "leafs" it was poorly made since it looks like a too round stack on top of the "trunk".
+
+Something I will struggle with is the x y and z since it is to the right for the x and up for the y and z goes in the dierection that the "viewer" is and to make it go in the opposite dierection it make it go the reverse way.
+
+Animation is still on my mind and is something I will work on. As of now the only thing I have done is watch a few videos for animation. 
+
 
 
 <!--
