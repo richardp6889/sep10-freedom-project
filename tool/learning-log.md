@@ -46,7 +46,9 @@ Something I will struggle with is the x y and z since it is to the right for the
 Animation is still on my mind and is something I will work on. As of now the only thing I have done is watch a few videos for animation.
 
 04/02/2024
-Something I did this week was using the animation on a set of objects that move in a circular motion 
+Something I did this week was using the animation on a set of objects that move in a circular motion, although it did not move away from this path it still moved together with other shapes on it.
+
+One thing that I struggled with was 
 
 
 <!--
