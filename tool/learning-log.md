@@ -43,8 +43,9 @@ I made a scene with a big box as a ground that start at where the view is and wi
 
 Something I will struggle with is the x y and z since it is to the right for the x and up for the y and z goes in the dierection that the "viewer" is and to make it go in the opposite dierection it make it go the reverse way.
 
-Animation is still on my mind and is something I will work on. As of now the only thing I have done is watch a few videos for animation. 
+Animation is still on my mind and is something I will work on. As of now the only thing I have done is watch a few videos for animation.
 
+04/02/2024
 
 
 <!--
