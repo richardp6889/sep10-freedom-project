@@ -1,8 +1,8 @@
 # Plan
 
 ## Wireframes
-* [Mobile]()
-* [Desktop]()
+* [Mobile](https://wireframe.cc/l6CLiN)
+* [Desktop](https://wireframe.cc/FRUQKq)
 
 ## Colors
 * `#ABC123`
