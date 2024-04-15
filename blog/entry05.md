@@ -10,8 +10,12 @@ As I was starting by learning the tool the first few things I did was go to the 
 After learning the basics I made a new file free of copy pastes and started simply by adding shapes and changing their colors this was done for a few day to actually get familiar. I used this [video](https://www.youtube.com/results?search_query=how+positioning+works+in+aframe+html) to understand it as well. It was at this point to that I realised that i should have made a new file for each thing I tried since what I ended up doing for a while was using the same file to test different things out. From what I remember the things I tried was stacking the same shapes on top of each other, changing the scale of the shapes by a lot and steching shapes.
 
 ### Skills
-#### Problem decompositon:
-I learned that to learn a new tool from scratch was breaking it down by what makes a shape look a certain way because if you jump head first trying to 
+#### Problem decompositon/How to learn:
+I learned that to learn a new tool from scratch was breaking it down by what makes a shape look a certain way because if you jump head first trying to do this you will end up confused on why something isn't working or you don' know how to change certain features of the desired shap.
+
+#### Organization
+Organization was another 
+
 
 
 [Previous](entry04.md) | [Next](entry06.md)
