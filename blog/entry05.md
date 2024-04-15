@@ -14,7 +14,7 @@ After learning the basics I made a new file free of copy pastes and started simp
 I learned that to learn a new tool from scratch was breaking it down by what makes a shape look a certain way because if you jump head first trying to do this you will end up confused on why something isn't working or you don' know how to change certain features of the desired shap.
 
 #### Organization
-Organization was another 
+Organization was another skill highly developed during the time that was given to learn the tool since we had to document what we learned to do with the tool and as a result had to sort and what was really important to go into depth to and what else was information that was specific enough or didn't require further explanation. 
 
 
 
