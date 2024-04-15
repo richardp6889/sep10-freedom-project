@@ -5,7 +5,7 @@
 * [Desktop](https://wireframe.cc/FRUQKq)
 
 ## Colors
-* `#ABC123`
+* greens
 
 ## Fonts
 * [Text](URL)
@@ -14,7 +14,7 @@
 
 #### MVP
 
-* Task/Timeline
+* 04/15 the navbar
 
 ---
 
