@@ -1,1 +1,6 @@
-
+.white-box{
+    background: white;
+    text-align: center;
+    padding: 50px;
+    margin: 100px;
+}
