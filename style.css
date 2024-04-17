@@ -7,5 +7,9 @@
     padding: 50px;
 }
 .white-background{
-    background-color: white; 
+    background-color: white;
+}
+.smallbox{
+    height: 150px;
+    width: 150px;
 }
