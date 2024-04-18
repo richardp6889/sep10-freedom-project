@@ -15,8 +15,9 @@
 #### MVP
 
 * 04/15 the navbar
-* 04/16 the background and title always centered no matter the size 
-
+* 04/16 the background and title always centered no matter the size
+* 04/17 software information added
+* 04/18 harware added 
 ---
 
 #### Beyond MVP
