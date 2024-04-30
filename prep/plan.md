@@ -19,6 +19,8 @@
 * 04/16 the background and title always centered no matter the size
 * 04/17 software information added
 * 04/18 harware added
+* 04/19 images added
+* 04/20 aframe added
 ---
 
 #### Beyond MVP
