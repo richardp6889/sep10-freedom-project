@@ -7,7 +7,7 @@ The basis of my website was to make a website describing and giving a possible s
 ### Challenges & Takeaways
 Something that was difficult to accomplish was the format to switch from how it was on a small screen to a bigger one without too much compromise. In the end it worked out with minimum visibility for change how I wanted it to look to how it actually looked. The solution was to make the margin auto on each side which centers it on every screen and the fix to making it seem centered on smaller screen rather than to the left I increase the image size to fit the screen.
 
-Another challenge was having the motivation to finsih the MVP since having the basic information the website needed was easy and the Aframe embedding was difficult and didn't work so I swapped it out and that was when I didn't feel like continuing 
+Another challenge was having the motivation to finsih the MVP since having the basic information the website needed was easy and the Aframe embedding was difficult and didn't work so I swapped it out and that was when I didn't feel like continuing since I made it an image that led to the idea and it was okay since it did the job so I continued. The next part as mentioned before was having the layout as I wanted since I decided to put it off until I didn't and it was difficult since 
 
 
 
