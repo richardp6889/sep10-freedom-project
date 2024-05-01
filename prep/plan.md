@@ -20,7 +20,7 @@
 * 04/17 software information added
 * 04/18 harware added
 * 04/19 images added
-* 04/20 aframe added
+* 04/20-30 aframe added and MVP completed
 ---
 
 #### Beyond MVP
