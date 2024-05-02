@@ -16,7 +16,8 @@ The first step to making the MVP was to establish a design for it and make a wir
 ### Skills
 #### Embracing Failure
 This skill was used  many time during the creation since to make the website look like intended on the first try was impossible along with having to make changes to a complete small version to make it appear different on a bigger screen discouraged me to accually complete it and leave it alright quality.
-#### 
+#### How to Google
+Doing a task that you forgot or don't know is impossible. Guidance or a demo of the solution is what makes the task able to be completed and because the spacing values, distance and what the margin did again forced me to have to find this information again. The margin and the padding values were a general topic so the only thing being searched up was how margin and padding work. For the clickable image and 
 
 
 
