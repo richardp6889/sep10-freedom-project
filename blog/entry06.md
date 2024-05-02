@@ -14,7 +14,8 @@ The first step to making the MVP was to establish a design for it and make a wir
 
 
 ### Skills
-
+#### Embracing Failure
+This was a very common skill was used since 
 
 
 
