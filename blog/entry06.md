@@ -10,7 +10,7 @@ Something that was difficult to accomplish was the format to switch from how it 
 Another challenge was having the motivation to finsih the MVP since having the basic information the website needed was easy and the Aframe embedding was difficult and didn't work so I swapped it out and that was when I didn't feel like continuing since I made it an image that led to the idea and it was okay since it did the job so I continued. The next part as mentioned before was having the layout as I wanted since I decided to put it off until I didn't and it was difficult since the image that led to the Aframe was way to big to fit from the big screen to the small one and it doesn't shrink.
 
 ### EDP
-In agruculture many of the task performed are heavy on the body and can lead to joint pain for many farmers so there would have to be a way for information to out there and awareness be raised for a profession that feeds us and keeps us alive. There are plenty of present day technology that allow for a few cuts on labor for that but the main part which is picking, planting, checking the condition of the plant still have to be done by hand and 
+In agruculture many of the task performed are heavy on the body and can lead to joint pain for many farmers so there would have to be a way for information to out there and awareness be raised for a profession that feeds us and keeps us alive. There are plenty of present day technology that allow for a few cuts on labor for that but the main part which is picking, planting, checking the condition of the plant still have to be done by hand and when done it takes a lot of time since it is 
 
 ### Skills
 #### Embracing Failure
