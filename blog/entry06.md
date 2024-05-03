@@ -10,8 +10,7 @@ Something that was difficult to accomplish was the format to switch from how it 
 Another challenge was having the motivation to finsih the MVP since having the basic information the website needed was easy and the Aframe embedding was difficult and didn't work so I swapped it out and that was when I didn't feel like continuing since I made it an image that led to the idea and it was okay since it did the job so I continued. The next part as mentioned before was having the layout as I wanted since I decided to put it off until I didn't and it was difficult since the image that led to the Aframe was way to big to fit from the big screen to the small one and it doesn't shrink.
 
 ### EDP
-The first step to making the MVP was to establish a design for it and make a wireframe for how it would look which was the wireframe 
-
+In agruculture many of the task performed are heavy on the body and can lead to 
 
 ### Skills
 #### Embracing Failure
