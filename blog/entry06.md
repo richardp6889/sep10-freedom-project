@@ -10,14 +10,14 @@ Something that was difficult to accomplish was the format to switch from how it 
 Another challenge was having the motivation to finsih the MVP since having the basic information the website needed was easy and the Aframe embedding was difficult and didn't work so I swapped it out and that was when I didn't feel like continuing since I made it an image that led to the idea and it was okay since it did the job so I continued. The next part as mentioned before was having the layout as I wanted since I decided to put it off until I didn't and it was difficult since the image that led to the Aframe was way to big to fit from the big screen to the small one and it doesn't shrink.
 
 ### EDP
-The first step to making the MVP was to establish a design for it and make a wireframe for how it would look
+The first step to making the MVP was to establish a design for it and make a wireframe for how it would look which was the wireframe 
 
 
 ### Skills
 #### Embracing Failure
 This skill was used  many time during the creation since to make the website look like intended on the first try was impossible along with having to make changes to a complete small version to make it appear different on a bigger screen discouraged me to accually complete it and leave it alright quality.
 #### How to Google
-Doing a task that you forgot or don't know is impossible. Guidance or a demo of the solution is what makes the task able to be completed and because the spacing values, distance and what the margin did again forced me to have to find this information again. The margin and the padding values were a general topic so the only thing being searched up was how margin and padding work. For the clickable image and spacing for centered image at big screen and full width at smaller was more specific so the first thing i began doing was searching how making links worked then applied it to how it would work on a element then moved that knowledge to an image element and it worked. This however will probably change to embedding the aframe instead of making it a clickable image. The spacing was searching how to center an element always and then checking which one was the most desirable then testing if it would be good for the wanted images and it did work eventually. 
+Doing a task that you forgot or don't know is impossible. Guidance or a demo of the solution is what makes the task able to be completed and because the spacing values, distance and what the margin did again forced me to have to find this information again. The margin and the padding values were a general topic so the only thing being searched up was how margin and padding work. For the clickable image and spacing for centered image at big screen and full width at smaller was more specific so the first thing i began doing was searching how making links worked then applied it to how it would work on a element then moved that knowledge to an image element and it worked. This however will probably change to embedding the aframe instead of making it a clickable image. The spacing was searching how to center an element always and then checking which one was the most desirable then testing if it would be good for the wanted images and it did work eventually.
 
 
 
