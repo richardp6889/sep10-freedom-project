@@ -9,7 +9,7 @@
 * green
 
 ## Fonts
-* [Text](URL)
+* [Sedan SC](https://fonts.google.com/specimen/Sedan+SC)
 
 ## Timeline
 
@@ -24,5 +24,5 @@
 ---
 
 #### Beyond MVP
+* 
 
-* Task
