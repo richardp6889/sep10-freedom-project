@@ -27,5 +27,5 @@
 * Fix image responsiveness
 * Fix margin
 * Add different font and clarity to read it
-*
+* Embed the Aframe 
 
