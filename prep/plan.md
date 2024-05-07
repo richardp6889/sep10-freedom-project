@@ -24,8 +24,8 @@
 ---
 
 #### Beyond MVP
--[ ]Fix margin
--[ ]Add different font and clarity to read it
--[ ]Fix image responsiveness
--[ ]Embed the Aframe
+-[ ] Fix margin
+-[ ] Add different font and clarity to read it
+-[ ] Fix image responsiveness
+-[ ] Embed the Aframe
 
