@@ -45,6 +45,8 @@ a-scene {
 }
 #aframe{
   margin-left: auto;
+  height: 300px;
+  width: 600px;
 }
 .white-textbox{
     background-color: white;
