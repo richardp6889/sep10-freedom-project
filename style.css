@@ -47,5 +47,9 @@ a-scene {
    text-align: center;
 }
 .white-textbox{
-    background-color: white; 
+    background-color: white;
+}
+*{
+    padding: 10px;
+    
 }
