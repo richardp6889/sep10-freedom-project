@@ -44,5 +44,7 @@ a-scene {
     margin-right: auto;
 }
 #myembeddedidea{
-    place-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
