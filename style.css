@@ -57,13 +57,15 @@ a-scene {
 }
 .white-textbox{
     background-color: white;
+    padding: 20 0px;
 }
 *{
     font-family: "Sedan+SC&display=swap", san-sherif;
 }
 .software{
-    padding: 
+    padding: 20 0px;
 }
 .hardware{
 
 }
+
