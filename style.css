@@ -60,13 +60,12 @@ a-scene {
     padding: 30 5 5 10px;
     border-radius: 10px;
 }
+
+.spacing(
+    margin: 20 0 20 0px;
+    font-size: 20px;
+)
+
 *{
     font-family: "Sedan+SC&display=swap", san-sherif;
 }
-.software{
-    padding: 20 0px;
-}
-.hardware{
-
-}
-
