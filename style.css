@@ -62,7 +62,8 @@ a-scene {
 }
 
 .spacing(
-    margin: 20 0 20 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     font-size: 20px;
 )
 
