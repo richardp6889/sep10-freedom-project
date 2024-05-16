@@ -35,6 +35,8 @@ a-scene {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border-width: 2px;
+    border-style: solid;
 }
 .Aframe{
     height: 400px;
@@ -61,7 +63,7 @@ a-scene {
     border-radius: 10px;
 }
 
-.spacing(
+.mango(
     margin-top: 10px;
     margin-bottom: 10px;
     font-size: 20px;
