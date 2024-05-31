@@ -1,11 +1,12 @@
 # Entry 7
-##### X/X/XX
+##### 05//
+
 
 Presentation
 Skip through things i knew but not other people
 
 Expo
-repeatitive 
+repeatitive
 
 [Previous](entry06.md) | [Next](entry08.md)
 
