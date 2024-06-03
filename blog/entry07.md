@@ -12,7 +12,7 @@ Starting off on the elavator pitch was having an idea on what someone might have
 #### Communication
 During the expo and the in-class presentation it was important to thoroughly explain what each section was since no one but me really experienced my website fully. Having people's thoughts and feedback made me known of what people focused on and could be glossed over.
 #### Growth Mindset
-Having many people coming and going made me change what started and ended my pitch given to the people. The first few times was me giving importance to the different hardwares in farming and many people were left confused on the rest so going forward I gave attention to that less and less and focused more on the bootstrap, generalized the information of software and hardware and made the intention clear of what the Aframe was meant to 
+Having many people coming and going made me change what started and ended my pitch given to the people. The first few times was me giving importance to the different hardwares in farming and many people were left confused on the rest so going forward I gave attention to that less and less and focused more on the bootstrap, generalized the information of software and hardware and made the intentions clear of what the Aframe was meant to do what my goal was in creating and picking this topic and choosing these certain softwares and hardwares was. 
 
 
 
