@@ -8,13 +8,13 @@ In class [presentation](https://docs.google.com/presentation/d/1viZj88XDUAF1XYDb
 ### EDP
 Starting off on the elavator pitch was having an idea on what someone might have in relation with farming and catching their attention by starting off with a potential question/statement they might have. How better to catch someones attention than with having something they are holding or are near and making a connection to having it be there only because of a interconnected chain starting from crops. Then to finish and polish the pitch was to focus on what the thing that stands out the most when presenting the website preview. The elevator pitch ended up being an explanation of the purpose, how it would improve, and how the idea would work.
 
-### Skills 
+### Skills
+#### Communication
+During the expo and the in-class presentation it was important to thoroughly explain what each section was since no one but me really experienced my website fully. Having people's thoughts and feedback made me known of what people focused on and could be glossed over.
+#### Growth Mindset
+Having many people coming and going made me change what started and ended my pitch given to the people. The first few times was me giving importance to the different hardwares in farming and many people were left confused on the rest so going forward I gave attention to that less and less and focused more on the bootstrap, generalized the information of software and hardware and made the intention clear of what the Aframe was meant to 
 
-Presentation
-Skip through things i knew but not other people
 
-Expo
-repeatitive
 
 [Previous](entry06.md) | [Next](entry08.md)
 
